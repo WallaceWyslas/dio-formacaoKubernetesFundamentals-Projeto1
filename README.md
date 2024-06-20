@@ -1,5 +1,5 @@
 # 1️⃣ Criando um Deploy de uma aplicação
-No desenvolvimentcdo projeto serão criadas as imagens dos contêineres e serviços necessários no Kubernetes para que a aplicação esteja pronta para produção.
+No desenvolvimento do projeto serão criadas as imagens dos contêineres e serviços necessários no Kubernetes para que a aplicação esteja pronta para produção.
 
 **ESSE SCRIPT FOI FEITO PARA O MINIKUBE**
 
